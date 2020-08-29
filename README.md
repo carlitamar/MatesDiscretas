@@ -1,4 +1,4 @@
-# MatesDiscretas
+# Mates Discretas <<>> Discrete Math
 Código para encriptar y desencriptar vía el algorítmo de Caesar Cipher
 
 <<>>
